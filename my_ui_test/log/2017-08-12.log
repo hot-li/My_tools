@@ -1,0 +1,100 @@
+2017-08-12 11:35:04,582 - root - INFO - You had select Chrome browser.
+2017-08-12 11:35:04,583 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 11:35:09,317 - root - INFO - Starting Chrome browser.
+2017-08-12 11:35:11,103 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 11:35:11,110 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 11:35:16,025 - root - INFO - 发送邮件成功
+2017-08-12 11:40:41,673 - root - INFO - You had select Chrome browser.
+2017-08-12 11:40:41,674 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 11:40:46,590 - root - INFO - Starting Chrome browser.
+2017-08-12 11:40:47,980 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 11:40:47,985 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 11:41:47,877 - root - INFO - You had select Chrome browser.
+2017-08-12 11:41:47,878 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 11:41:52,086 - root - INFO - Starting Chrome browser.
+2017-08-12 11:41:53,374 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 11:41:53,377 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 11:41:57,407 - root - INFO - 发送邮件成功
+2017-08-12 11:53:09,583 - root - INFO - You had select Chrome browser.
+2017-08-12 11:53:09,584 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 11:53:14,131 - root - INFO - Starting Chrome browser.
+2017-08-12 11:53:17,952 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 11:53:17,957 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 11:53:22,544 - root - INFO - 发送邮件成功
+2017-08-12 15:14:03,750 - root - INFO - You had select Chrome browser.
+2017-08-12 15:14:03,751 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:14:08,526 - root - INFO - Starting Chrome browser.
+2017-08-12 15:14:09,923 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:14:09,928 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:14:15,530 - root - INFO - 发送邮件成功
+2017-08-12 15:15:13,865 - root - INFO - You had select Chrome browser.
+2017-08-12 15:15:13,866 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:15:18,102 - root - INFO - Starting Chrome browser.
+2017-08-12 15:15:19,335 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:15:19,341 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:15:53,926 - root - INFO - You had select Chrome browser.
+2017-08-12 15:15:53,926 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:15:58,596 - root - INFO - Starting Chrome browser.
+2017-08-12 15:16:00,491 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:16:00,495 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:16:22,087 - root - INFO - You had select Chrome browser.
+2017-08-12 15:16:22,088 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:16:26,620 - root - INFO - Starting Chrome browser.
+2017-08-12 15:16:27,711 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:16:27,714 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:17:33,832 - root - INFO - You had select Chrome browser.
+2017-08-12 15:17:33,833 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:17:38,204 - root - INFO - Starting Chrome browser.
+2017-08-12 15:17:39,843 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:17:39,847 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:18:29,443 - root - INFO - You had select Chrome browser.
+2017-08-12 15:18:29,443 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:18:33,980 - root - INFO - Starting Chrome browser.
+2017-08-12 15:18:35,461 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:18:35,466 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:19:59,630 - root - INFO - You had select Chrome browser.
+2017-08-12 15:19:59,632 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:20:03,892 - root - INFO - Starting Chrome browser.
+2017-08-12 15:20:05,343 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:20:05,349 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:23:44,959 - root - INFO - You had select Chrome browser.
+2017-08-12 15:23:44,963 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:23:49,888 - root - INFO - Starting Chrome browser.
+2017-08-12 15:23:51,346 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:23:51,368 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:24:39,158 - root - INFO - You had select Chrome browser.
+2017-08-12 15:24:39,159 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:24:43,439 - root - INFO - Starting Chrome browser.
+2017-08-12 15:24:44,639 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:24:44,643 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:25:18,991 - root - INFO - You had select Chrome browser.
+2017-08-12 15:25:19,000 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:25:23,497 - root - INFO - Starting Chrome browser.
+2017-08-12 15:25:27,204 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:25:27,216 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:29:22,490 - root - INFO - You had select Chrome browser.
+2017-08-12 15:29:22,491 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:29:26,661 - root - INFO - Starting Chrome browser.
+2017-08-12 15:29:30,217 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:29:30,221 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:30:37,680 - root - INFO - You had select Chrome browser.
+2017-08-12 15:30:37,682 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:30:42,465 - root - INFO - Starting Chrome browser.
+2017-08-12 15:30:46,549 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:30:46,551 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:32:05,400 - root - INFO - You had select Chrome browser.
+2017-08-12 15:32:05,401 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:32:10,255 - root - INFO - Starting Chrome browser.
+2017-08-12 15:32:13,988 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:32:13,991 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:33:31,547 - root - INFO - You had select Chrome browser.
+2017-08-12 15:33:31,548 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:33:35,944 - root - INFO - Starting Chrome browser.
+2017-08-12 15:33:39,847 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:33:39,851 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:36:47,772 - root - INFO - You had select Chrome browser.
+2017-08-12 15:36:47,773 - root - INFO - The test server url is: http://www.baidu.com
+2017-08-12 15:36:51,823 - root - INFO - Starting Chrome browser.
+2017-08-12 15:36:54,214 - root - INFO - Open url: http://www.baidu.com
+2017-08-12 15:36:54,216 - root - INFO - Set implicitly wait 3 seconds.
+2017-08-12 15:37:04,701 - root - INFO - Now, Close and quit the browser.

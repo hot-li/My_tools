@@ -1,0 +1,42 @@
+2017-08-15 10:59:47,677 - base_operation - INFO - ############################### START ###############################
+2017-08-15 10:59:52,183 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 10:59:52,183 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.506257772445679 seconds
+2017-08-15 10:59:56,394 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.211240768432617 seconds.
+2017-08-15 11:00:00,530 - base_page - INFO - Had take screenshot and save to folder : /screenshots
+2017-08-15 11:00:03,612 - base_page - INFO - Quit this browser.
+2017-08-15 11:00:03,613 - base_operation - INFO - ############################### END ################################
+2017-08-15 11:01:42,664 - base_operation - INFO - ############################### START ###############################
+2017-08-15 11:01:46,989 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 11:01:46,989 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.325247287750244 seconds
+2017-08-15 11:01:49,767 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.7761588096618652 seconds.
+2017-08-15 11:01:53,647 - base_page - INFO - Had take screenshot and save to folder : E:\Code_Demo\my_ui_test\image/baidu_serch_selenium.png
+2017-08-15 11:01:56,710 - base_page - INFO - Quit this browser.
+2017-08-15 11:01:56,710 - base_operation - INFO - ############################### END ################################
+2017-08-15 11:02:53,429 - base_operation - INFO - ############################### START ###############################
+2017-08-15 11:02:58,318 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 11:02:58,318 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.888279438018799 seconds
+2017-08-15 11:03:00,297 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.9791133403778076 seconds.
+2017-08-15 11:03:04,088 - base_page - INFO - Had take screenshot and save to folder : E:\Code_Demo\my_ui_test\image\baidu_serch_selenium.png
+2017-08-15 11:03:07,139 - base_page - INFO - Quit this browser.
+2017-08-15 11:03:07,139 - base_operation - INFO - ############################### END ################################
+2017-08-15 11:03:16,793 - base_operation - INFO - ############################### START ###############################
+2017-08-15 11:03:21,094 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 11:03:21,095 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.30224609375 seconds
+2017-08-15 11:03:23,239 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.14412260055542 seconds.
+2017-08-15 11:03:27,269 - base_page - INFO - Had take screenshot and save to folder : E:\Code_Demo\my_ui_test\image\baidu_serch_selenium.png
+2017-08-15 11:03:30,326 - base_page - INFO - Quit this browser.
+2017-08-15 11:03:30,326 - base_operation - INFO - ############################### END ################################
+2017-08-15 11:42:29,453 - base_operation - INFO - ############################### START ###############################
+2017-08-15 11:42:33,674 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 11:42:33,674 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.221241474151611 seconds
+2017-08-15 11:42:35,843 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.168123960494995 seconds
+2017-08-15 11:42:39,573 - base_page - INFO - take screenshot and save to folder : E:\Code_Demo\my_ui_test\image\20170815\baidu_serch_selenium.png
+2017-08-15 11:42:42,638 - base_page - INFO - Quit this browser.
+2017-08-15 11:42:42,638 - base_operation - INFO - ############################### END ################################
+2017-08-15 11:44:30,928 - base_operation - INFO - ############################### START ###############################
+2017-08-15 11:44:35,185 - browser_engine - INFO - Starting Chrome browser.
+2017-08-15 11:44:35,185 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.257243633270264 seconds
+2017-08-15 11:44:37,305 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.1191210746765137 seconds
+2017-08-15 11:44:41,372 - base_page - INFO - take screenshot and save to folder : E:\Code_Demo\my_ui_test\image\20170815\baidu_serch_selenium.png
+2017-08-15 11:44:44,428 - base_page - INFO - Quit this browser.
+2017-08-15 11:44:44,428 - base_operation - INFO - ############################### END ################################

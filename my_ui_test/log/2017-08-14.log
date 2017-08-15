@@ -1,0 +1,415 @@
+2017-08-14 11:23:16,247 - root - INFO - ############################### START ###############################
+2017-08-14 11:25:28,278 - root - INFO - ############################### START ###############################
+2017-08-14 11:34:02,006 - root - INFO - ############################### START ###############################
+2017-08-14 11:34:40,693 - root - INFO - ############################### START ###############################
+2017-08-14 11:34:45,097 - root - INFO - Starting Chrome browser.
+2017-08-14 11:34:45,098 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.404252052307129 seconds
+2017-08-14 11:35:08,862 - root - INFO - ############################### START ###############################
+2017-08-14 11:35:13,805 - root - INFO - Starting Chrome browser.
+2017-08-14 11:35:13,806 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.943282842636108 seconds
+2017-08-14 11:36:09,638 - root - INFO - ############################### START ###############################
+2017-08-14 11:36:14,066 - root - INFO - Starting Chrome browser.
+2017-08-14 11:36:14,067 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.427253246307373 seconds
+2017-08-14 11:45:36,695 - root - INFO - ############################### START ###############################
+2017-08-14 11:45:56,562 - root - INFO - Starting Chrome browser.
+2017-08-14 11:46:08,044 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 22.197269678115845 seconds
+2017-08-14 11:51:18,080 - root - INFO - ############################### START ###############################
+2017-08-14 11:51:23,582 - root - INFO - Starting Chrome browser.
+2017-08-14 11:51:23,587 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 5.503314971923828 seconds
+2017-08-14 11:54:58,632 - root - INFO - ############################### START ###############################
+2017-08-14 11:55:02,968 - root - INFO - Starting Chrome browser.
+2017-08-14 11:55:02,971 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.3372483253479 seconds
+2017-08-14 11:55:02,972 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:09:29,375 - root - INFO - ############################### START ###############################
+2017-08-14 12:09:33,762 - root - INFO - Starting Chrome browser.
+2017-08-14 12:09:33,763 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.386250972747803 seconds
+2017-08-14 12:09:33,764 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:09:33,765 - root - INFO - ############################### END ###############################
+2017-08-14 12:16:15,553 - root - INFO - ############################### START ###############################
+2017-08-14 12:16:20,261 - root - INFO - Starting Chrome browser.
+2017-08-14 12:16:20,262 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.7072694301605225 seconds
+2017-08-14 12:16:20,263 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0010001659393310547 seconds
+2017-08-14 12:16:20,266 - root - INFO - ############################### END ###############################
+2017-08-14 12:16:48,523 - root - INFO - ############################### START ###############################
+2017-08-14 12:16:52,790 - root - INFO - Starting Chrome browser.
+2017-08-14 12:16:52,791 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.267244100570679 seconds
+2017-08-14 12:16:52,792 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:16:52,793 - root - INFO - ############################### END ###############################
+2017-08-14 12:16:59,388 - root - INFO - ############################### START ###############################
+2017-08-14 12:17:03,652 - root - INFO - Starting Chrome browser.
+2017-08-14 12:17:03,653 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.265244007110596 seconds
+2017-08-14 12:17:03,654 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:17:03,657 - root - INFO - ############################### END ###############################
+2017-08-14 12:17:34,891 - root - INFO - ############################### START ###############################
+2017-08-14 12:17:39,105 - root - INFO - Starting Chrome browser.
+2017-08-14 12:17:39,106 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2132408618927 seconds
+2017-08-14 12:17:39,107 - root - INFO - ############################### END ###############################
+2017-08-14 12:18:04,088 - root - INFO - ############################### START ###############################
+2017-08-14 12:18:08,270 - root - INFO - Starting Chrome browser.
+2017-08-14 12:18:08,271 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.181239128112793 seconds
+2017-08-14 12:18:08,271 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:18:08,273 - root - INFO - ############################### END ###############################
+2017-08-14 12:19:42,900 - root - INFO - ############################### START ###############################
+2017-08-14 12:19:47,132 - root - INFO - Starting Chrome browser.
+2017-08-14 12:19:47,133 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2332422733306885 seconds
+2017-08-14 12:19:47,134 - root - INFO - ############################### END ###############################
+2017-08-14 12:20:54,387 - root - INFO - ############################### START ###############################
+2017-08-14 12:20:54,674 - root - INFO - ############################### START ###############################
+2017-08-14 12:20:59,827 - root - INFO - Starting Chrome browser.
+2017-08-14 12:20:59,828 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 5.4413111209869385 seconds
+2017-08-14 12:20:59,830 - root - INFO - ############################### END ###############################
+2017-08-14 12:21:00,783 - root - INFO - Starting Chrome browser.
+2017-08-14 12:21:00,811 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 6.118350028991699 seconds
+2017-08-14 12:21:00,835 - root - INFO - ############################### END ###############################
+2017-08-14 12:21:04,720 - root - INFO - ############################### START ###############################
+2017-08-14 12:21:09,125 - root - INFO - Starting Chrome browser.
+2017-08-14 12:21:09,127 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.405251979827881 seconds
+2017-08-14 12:21:09,128 - root - INFO - ############################### END ###############################
+2017-08-14 12:21:36,297 - root - INFO - ############################### START ###############################
+2017-08-14 12:21:40,721 - root - INFO - Starting Chrome browser.
+2017-08-14 12:21:40,722 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.424253225326538 seconds
+2017-08-14 12:21:40,723 - root - INFO - ############################### END ###############################
+2017-08-14 12:22:30,544 - root - INFO - ############################### START ###############################
+2017-08-14 12:22:34,845 - root - INFO - Starting Chrome browser.
+2017-08-14 12:22:34,846 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.301246166229248 seconds
+2017-08-14 12:22:34,847 - root - INFO - ############################### END ###############################
+2017-08-14 12:28:33,033 - root - INFO - ############################### START ###############################
+2017-08-14 12:28:37,427 - root - INFO - Starting Chrome browser.
+2017-08-14 12:28:37,428 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.395251274108887 seconds
+2017-08-14 12:28:37,429 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:28:37,432 - root - INFO - ############################### END ###############################
+2017-08-14 12:28:48,681 - root - INFO - ############################### START ###############################
+2017-08-14 12:28:53,082 - root - INFO - Starting Chrome browser.
+2017-08-14 12:28:53,084 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.400251626968384 seconds
+2017-08-14 12:29:14,458 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 5.154294967651367 seconds
+2017-08-14 12:29:20,471 - root - INFO - ############################### END ###############################
+2017-08-14 12:29:59,241 - root - INFO - ############################### START ###############################
+2017-08-14 12:30:03,619 - root - INFO - Starting Chrome browser.
+2017-08-14 12:30:03,620 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.378250360488892 seconds
+2017-08-14 12:30:03,620 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 12:30:03,622 - root - INFO - ############################### END ###############################
+2017-08-14 12:33:43,329 - root - INFO - ############################### START ###############################
+2017-08-14 12:33:47,815 - root - INFO - Starting Chrome browser.
+2017-08-14 12:33:47,817 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.485256671905518 seconds
+2017-08-14 12:34:55,571 - root - INFO - FAIL    Unable to load http://www.baidu.com, Spend 29.02366018295288 seconds
+2017-08-14 12:35:02,078 - root - INFO - ############################### END ###############################
+2017-08-14 13:01:49,973 - root - INFO - ############################### START ###############################
+2017-08-14 13:01:49,974 - root - INFO - FAIL Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 13:01:49,975 - root - INFO - ############################### END ###############################
+2017-08-14 13:03:58,670 - root - INFO - ############################### START ###############################
+2017-08-14 13:03:58,672 - root - INFO - FAIL Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 13:03:58,674 - root - INFO - ############################### END ###############################
+2017-08-14 13:04:50,718 - root - INFO - ############################### START ###############################
+2017-08-14 13:04:54,995 - root - INFO - Starting Chrome browser.
+2017-08-14 13:04:54,996 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.275244474411011 seconds
+2017-08-14 13:04:56,240 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2430710792541504 seconds
+2017-08-14 13:04:58,689 - root - INFO - ############################### END ###############################
+2017-08-14 13:17:38,330 - root - INFO - ############################### START ###############################
+2017-08-14 13:17:42,831 - root - INFO - Starting Chrome browser.
+2017-08-14 13:17:42,832 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.501257658004761 seconds
+2017-08-14 13:17:44,267 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.432081937789917 seconds
+2017-08-14 13:17:46,679 - root - INFO - ############################### END ###############################
+2017-08-14 13:18:22,450 - root - INFO - ############################### START ###############################
+2017-08-14 13:18:27,216 - root - INFO - Starting Chrome browser.
+2017-08-14 13:18:27,218 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.76627254486084 seconds
+2017-08-14 13:18:54,609 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.504257678985596 seconds
+2017-08-14 13:20:45,297 - root - INFO - ############################### START ###############################
+2017-08-14 13:20:49,666 - root - INFO - Starting Chrome browser.
+2017-08-14 13:20:49,668 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.37024998664856 seconds
+2017-08-14 13:20:53,761 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.090234041213989 seconds
+2017-08-14 13:20:56,146 - root - INFO - ############################### END ###############################
+2017-08-14 13:22:19,572 - root - INFO - ############################### START ###############################
+2017-08-14 13:22:24,059 - root - INFO - Starting Chrome browser.
+2017-08-14 13:22:24,060 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.4862565994262695 seconds
+2017-08-14 13:22:26,816 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.753157377243042 seconds
+2017-08-14 13:22:29,381 - root - INFO - ############################### END ###############################
+2017-08-14 13:22:32,424 - root - INFO - Quit this browser.
+2017-08-14 13:23:38,150 - root - INFO - ############################### START ###############################
+2017-08-14 13:23:42,477 - root - INFO - Starting Chrome browser.
+2017-08-14 13:23:42,477 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.327247381210327 seconds
+2017-08-14 13:23:46,251 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 3.7722158432006836 seconds
+2017-08-14 13:23:51,690 - root - INFO - Quit this browser.
+2017-08-14 13:23:51,691 - root - INFO - ############################### END ###############################
+2017-08-14 13:24:37,346 - root - INFO - ############################### START ###############################
+2017-08-14 13:24:41,806 - root - INFO - Starting Chrome browser.
+2017-08-14 13:24:41,807 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.460255146026611 seconds
+2017-08-14 13:24:43,069 - root - INFO - 111111111111
+2017-08-14 13:24:43,070 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2620720863342285 seconds
+2017-08-14 13:24:48,501 - root - INFO - Quit this browser.
+2017-08-14 13:24:48,501 - root - INFO - ############################### END ################################
+2017-08-14 13:28:18,967 - root - INFO - ############################### START ###############################
+2017-08-14 13:28:23,300 - root - INFO - Starting Chrome browser.
+2017-08-14 13:28:23,301 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.332247972488403 seconds
+2017-08-14 13:28:24,598 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2970740795135498 seconds
+2017-08-14 13:28:30,018 - root - INFO - Quit this browser.
+2017-08-14 13:28:30,018 - root - INFO - ############################### END ################################
+2017-08-14 13:28:55,499 - root - INFO - ############################### START ###############################
+2017-08-14 13:28:59,803 - root - INFO - Starting Chrome browser.
+2017-08-14 13:28:59,804 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.305246114730835 seconds
+2017-08-14 13:29:01,131 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.325075626373291 seconds
+2017-08-14 13:29:08,512 - root - INFO - Quit this browser.
+2017-08-14 13:29:08,515 - root - INFO - ############################### END ################################
+2017-08-14 14:08:38,089 - root - INFO - ############################### START ###############################
+2017-08-14 14:08:46,404 - root - INFO - Starting Chrome browser.
+2017-08-14 14:08:46,405 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 8.313475608825684 seconds
+2017-08-14 14:08:51,806 - root - INFO - open the url
+2017-08-14 14:08:57,769 - root - INFO - Quit this browser.
+2017-08-14 14:08:57,773 - root - INFO - ############################### END ################################
+2017-08-14 14:11:46,878 - root - INFO - ############################### START ###############################
+2017-08-14 14:11:54,875 - root - INFO - Starting Chrome browser.
+2017-08-14 14:11:54,875 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.996457576751709 seconds
+2017-08-14 14:11:57,533 - root - DEBUG - SUCCESS Navigated to http://www.baidu.com, Spend 2.653151750564575 seconds
+2017-08-14 14:12:03,287 - root - INFO - Quit this browser.
+2017-08-14 14:12:03,293 - root - INFO - ############################### END ################################
+2017-08-14 14:26:40,356 - root - INFO - ############################### START ###############################
+2017-08-14 14:26:47,869 - root - INFO - Starting Chrome browser.
+2017-08-14 14:26:47,874 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.512429714202881 seconds
+2017-08-14 14:26:57,079 - root - INFO - ############################### START ###############################
+2017-08-14 14:26:58,272 - root - INFO - ############################### START ###############################
+2017-08-14 14:27:05,404 - root - INFO - Starting Chrome browser.
+2017-08-14 14:27:05,405 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 8.323476076126099 seconds
+2017-08-14 14:27:06,402 - root - INFO - Starting Chrome browser.
+2017-08-14 14:27:06,416 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 8.131465196609497 seconds
+2017-08-14 14:28:05,703 - root - INFO - ############################### START ###############################
+2017-08-14 14:28:13,202 - root - INFO - Starting Chrome browser.
+2017-08-14 14:28:13,202 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.497428894042969 seconds
+2017-08-14 14:28:17,425 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.22124171257019 seconds
+2017-08-14 14:28:23,016 - root - INFO - Quit this browser.
+2017-08-14 14:28:23,020 - root - INFO - ############################### END ################################
+2017-08-14 14:36:04,597 - root - INFO - ############################### START ###############################
+2017-08-14 14:36:12,057 - root - INFO - Starting Chrome browser.
+2017-08-14 14:36:12,062 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.4644269943237305 seconds
+2017-08-14 14:36:16,921 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.858277797698975 seconds
+2017-08-14 14:36:27,412 - root - INFO - Quit this browser.
+2017-08-14 14:36:27,416 - root - INFO - ############################### END ################################
+2017-08-14 14:40:09,878 - root - INFO - ############################### START ###############################
+2017-08-14 14:40:18,120 - root - INFO - Starting Chrome browser.
+2017-08-14 14:40:18,121 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 8.243471384048462 seconds
+2017-08-14 14:40:23,587 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 5.464312553405762 seconds
+2017-08-14 14:40:29,171 - root - INFO - Quit this browser.
+2017-08-14 14:40:29,175 - root - INFO - ############################### END ################################
+2017-08-14 14:40:53,656 - root - INFO - ############################### START ###############################
+2017-08-14 14:54:27,164 - root - INFO - ############################### START ###############################
+2017-08-14 14:54:35,221 - root - INFO - Starting Chrome browser.
+2017-08-14 14:54:35,222 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 8.056460857391357 seconds
+2017-08-14 14:54:39,596 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 4.371250152587891 seconds
+2017-08-14 14:54:45,238 - root - INFO - Quit this browser.
+2017-08-14 14:54:45,242 - root - INFO - ############################### END ################################
+2017-08-14 14:58:30,486 - root - INFO - ############################### START ###############################
+2017-08-14 14:58:38,291 - root - INFO - Starting Chrome browser.
+2017-08-14 14:58:38,292 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.805446624755859 seconds
+2017-08-14 14:59:00,346 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 22.053261280059814 seconds
+2017-08-14 14:59:09,628 - root - INFO - Quit this browser.
+2017-08-14 14:59:09,634 - root - INFO - ############################### END ################################
+2017-08-14 15:07:25,279 - root - INFO - ############################### START ###############################
+2017-08-14 15:07:25,280 - root - INFO - ############################### START ###############################
+2017-08-14 15:07:33,143 - root - INFO - Starting Chrome browser.
+2017-08-14 15:07:33,143 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 7.862449645996094 seconds
+2017-08-14 15:07:39,733 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 6.588376998901367 seconds
+2017-08-14 15:07:50,526 - root - INFO - Quit this browser.
+2017-08-14 15:07:50,530 - root - INFO - ############################### END ################################
+2017-08-14 15:07:50,534 - root - INFO - ############################### END ################################
+2017-08-14 15:09:56,557 - root - INFO - ############################### START ###############################
+2017-08-14 15:09:56,558 - root - INFO - ############################### START ###############################
+2017-08-14 15:10:01,025 - root - INFO - Starting Chrome browser.
+2017-08-14 15:10:01,026 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.467255592346191 seconds
+2017-08-14 15:10:04,438 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 3.4111952781677246 seconds
+2017-08-14 15:10:09,851 - root - INFO - Quit this browser.
+2017-08-14 15:10:09,852 - root - INFO - ############################### END ################################
+2017-08-14 15:10:09,853 - root - INFO - ############################### END ################################
+2017-08-14 15:19:02,021 - root - WARNING - ############################### START ###############################
+2017-08-14 15:19:06,316 - root - INFO - Starting Chrome browser.
+2017-08-14 15:19:06,316 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.295245885848999 seconds
+2017-08-14 15:19:07,799 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.4810845851898193 seconds
+2017-08-14 15:19:24,894 - root - ERROR - ############################### START ###############################
+2017-08-14 15:19:29,188 - root - INFO - Starting Chrome browser.
+2017-08-14 15:19:29,189 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.292245626449585 seconds
+2017-08-14 15:19:30,976 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.786102294921875 seconds
+2017-08-14 15:28:37,928 - root - INFO - ############################### START ###############################
+2017-08-14 15:28:42,824 - root - INFO - Starting Chrome browser.
+2017-08-14 15:28:42,826 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.898280143737793 seconds
+2017-08-14 15:28:45,360 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.532144784927368 seconds
+2017-08-14 15:28:50,762 - root - INFO - Quit this browser.
+2017-08-14 15:28:50,764 - root - INFO - ############################### END ################################
+2017-08-14 15:34:35,459 - root - INFO - ############################### START ###############################
+2017-08-14 15:34:39,708 - root - INFO - Starting Chrome browser.
+2017-08-14 15:34:39,709 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2472429275512695 seconds
+2017-08-14 15:34:40,986 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2760729789733887 seconds
+2017-08-14 15:34:46,334 - root - INFO - Quit this browser.
+2017-08-14 15:34:46,336 - root - INFO - ############################### END ################################
+2017-08-14 15:38:59,856 - root - INFO - ############################### START ###############################
+2017-08-14 15:39:28,313 - root - INFO - ############################### START ###############################
+2017-08-14 15:39:32,465 - root - INFO - Starting Chrome browser.
+2017-08-14 15:39:32,465 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.152237415313721 seconds
+2017-08-14 15:39:33,725 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2580718994140625 seconds
+2017-08-14 15:41:16,259 - root - INFO - ############################### START ###############################
+2017-08-14 15:41:20,588 - root - INFO - Starting Chrome browser.
+2017-08-14 15:41:20,589 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.328247547149658 seconds
+2017-08-14 15:41:21,598 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.0080575942993164 seconds
+2017-08-14 15:41:30,652 - root - INFO - Quit this browser.
+2017-08-14 15:41:30,653 - root - INFO - ############################### END ################################
+2017-08-14 15:43:01,268 - root - INFO - ############################### START ###############################
+2017-08-14 15:43:05,503 - root - INFO - Starting Chrome browser.
+2017-08-14 15:43:05,504 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2352423667907715 seconds
+2017-08-14 15:43:06,980 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.4750843048095703 seconds
+2017-08-14 15:44:24,068 - root - INFO - ############################### START ###############################
+2017-08-14 15:44:28,385 - root - INFO - Starting Chrome browser.
+2017-08-14 15:44:28,387 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.318247079849243 seconds
+2017-08-14 15:44:29,624 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2360706329345703 seconds
+2017-08-14 15:44:38,703 - root - INFO - Quit this browser.
+2017-08-14 15:44:38,705 - root - INFO - ############################### END ################################
+2017-08-14 15:45:14,183 - root - INFO - ############################### START ###############################
+2017-08-14 15:45:18,793 - root - INFO - ############################### START ###############################
+2017-08-14 15:45:47,380 - root - INFO - ############################### START ###############################
+2017-08-14 15:45:51,623 - root - INFO - Starting Chrome browser.
+2017-08-14 15:45:51,624 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2442426681518555 seconds
+2017-08-14 15:45:52,971 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.3460769653320312 seconds
+2017-08-14 15:46:53,520 - root - INFO - ############################### START ###############################
+2017-08-14 15:46:57,731 - root - INFO - Starting Chrome browser.
+2017-08-14 15:46:57,732 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.212240934371948 seconds
+2017-08-14 15:46:59,850 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.1171209812164307 seconds
+2017-08-14 15:47:04,875 - root - INFO - Quit this browser.
+2017-08-14 15:47:04,875 - root - INFO - ############################### END ################################
+2017-08-14 15:48:01,206 - root - INFO - ############################### START ###############################
+2017-08-14 15:48:05,453 - root - INFO - Starting Chrome browser.
+2017-08-14 15:48:05,456 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2482428550720215 seconds
+2017-08-14 15:48:06,851 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.3950798511505127 seconds
+2017-08-14 15:49:14,700 - root - INFO - ############################### START ###############################
+2017-08-14 15:49:18,891 - root - INFO - Starting Chrome browser.
+2017-08-14 15:49:18,892 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.190239667892456 seconds
+2017-08-14 15:49:18,892 - root - INFO - FAIL Unable to load http://www.baidu.com, Spend 0.0 seconds
+2017-08-14 15:49:21,921 - root - INFO - Quit this browser.
+2017-08-14 15:49:21,924 - root - INFO - ############################### END ################################
+2017-08-14 15:50:25,435 - root - INFO - ############################### START ###############################
+2017-08-14 15:50:29,631 - root - INFO - Starting Chrome browser.
+2017-08-14 15:50:29,632 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.196239948272705 seconds
+2017-08-14 15:50:31,226 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.5930912494659424 seconds
+2017-08-14 15:50:33,893 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.3220183849334717 seconds
+2017-08-14 15:50:39,225 - root - INFO - Quit this browser.
+2017-08-14 15:50:39,226 - root - INFO - ############################### END ################################
+2017-08-14 16:08:23,727 - root - INFO - ############################### START ###############################
+2017-08-14 16:08:28,327 - root - INFO - Starting Chrome browser.
+2017-08-14 16:08:28,328 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.5992631912231445 seconds
+2017-08-14 16:08:29,652 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.3240759372711182 seconds
+2017-08-14 16:08:32,044 - root - INFO - baidu_serch is complete 
+2017-08-14 16:08:32,372 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.3260185718536377 seconds
+2017-08-14 16:08:37,679 - root - INFO - Quit this browser.
+2017-08-14 16:08:37,680 - root - INFO - ############################### END ################################
+2017-08-14 16:08:50,901 - root - INFO - ############################### START ###############################
+2017-08-14 16:08:55,670 - root - INFO - Starting Chrome browser.
+2017-08-14 16:08:55,670 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.768272638320923 seconds
+2017-08-14 16:08:59,191 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 3.5192012786865234 seconds
+2017-08-14 16:09:01,660 - root - INFO - baidu_serch is complete 
+2017-08-14 16:09:02,044 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.3820216655731201 seconds
+2017-08-14 16:09:07,325 - root - INFO - Quit this browser.
+2017-08-14 16:09:07,325 - root - INFO - ############################### END ################################
+2017-08-14 16:09:20,892 - root - INFO - ############################### START ###############################
+2017-08-14 16:09:25,345 - root - INFO - Starting Chrome browser.
+2017-08-14 16:09:25,346 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.4522545337677 seconds
+2017-08-14 16:09:26,627 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2800731658935547 seconds
+2017-08-14 16:09:28,987 - root - INFO - baidu_serch is complete 
+2017-08-14 16:09:29,309 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.32001829147338867 seconds
+2017-08-14 16:09:34,587 - root - INFO - Quit this browser.
+2017-08-14 16:09:34,588 - root - INFO - ############################### END ################################
+2017-08-14 16:09:56,917 - root - INFO - ############################### START ###############################
+2017-08-14 16:10:01,382 - root - INFO - Starting Chrome browser.
+2017-08-14 16:10:01,383 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.4662556648254395 seconds
+2017-08-14 16:10:02,744 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.3590776920318604 seconds
+2017-08-14 16:10:05,112 - root - INFO - baidu_serch is complete 
+2017-08-14 16:10:05,536 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.4220242500305176 seconds
+2017-08-14 16:10:10,838 - root - INFO - Quit this browser.
+2017-08-14 16:10:10,840 - root - INFO - ############################### END ################################
+2017-08-14 16:10:46,570 - root - INFO - ############################### START ###############################
+2017-08-14 16:10:50,972 - root - INFO - Starting Chrome browser.
+2017-08-14 16:10:50,973 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.402251720428467 seconds
+2017-08-14 16:10:52,149 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.1750671863555908 seconds
+2017-08-14 16:10:54,522 - root - INFO - baidu_serch is complete 
+2017-08-14 16:10:55,053 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.5290303230285645 seconds
+2017-08-14 16:11:00,339 - root - INFO - Quit this browser.
+2017-08-14 16:11:00,340 - root - INFO - ############################### END ################################
+2017-08-14 17:52:21,452 - root - INFO - ############################### START ###############################
+2017-08-14 17:52:26,184 - root - INFO - Starting Chrome browser.
+2017-08-14 17:52:26,186 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.733270883560181 seconds
+2017-08-14 17:52:27,502 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.314075231552124 seconds.
+2017-08-14 17:52:30,265 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.350020170211792 seconds.
+2017-08-14 17:52:35,564 - root - INFO - Quit this browser.
+2017-08-14 17:52:35,566 - root - INFO - ############################### END ################################
+2017-08-14 17:53:28,896 - root - INFO - ############################### START ###############################
+2017-08-14 17:53:33,130 - root - INFO - Starting Chrome browser.
+2017-08-14 17:53:33,131 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.2332422733306885 seconds
+2017-08-14 17:53:34,466 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.3340764045715332 seconds.
+2017-08-14 17:53:37,249 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.45102596282958984 seconds.
+2017-08-14 17:53:42,578 - root - INFO - Quit this browser.
+2017-08-14 17:53:42,580 - root - INFO - ############################### END ################################
+2017-08-14 17:54:07,145 - root - INFO - ############################### START ###############################
+2017-08-14 17:54:11,574 - root - INFO - Starting Chrome browser.
+2017-08-14 17:54:11,575 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.429253339767456 seconds
+2017-08-14 17:54:12,839 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2620723247528076 seconds.
+2017-08-14 17:54:15,562 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 0.0 seconds.
+2017-08-14 17:54:20,879 - root - INFO - Quit this browser.
+2017-08-14 17:54:20,880 - root - INFO - ############################### END ################################
+2017-08-14 17:55:05,537 - root - INFO - ############################### START ###############################
+2017-08-14 17:55:10,048 - root - INFO - Starting Chrome browser.
+2017-08-14 17:55:10,049 - root - INFO - SUCCESS Start a new browser: Chrome, Spend 4.511257886886597 seconds
+2017-08-14 17:55:11,469 - root - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.4180810451507568 seconds.
+2017-08-14 17:55:14,277 - root - INFO - open success
+2017-08-14 17:55:19,618 - root - INFO - Quit this browser.
+2017-08-14 17:55:19,619 - root - INFO - ############################### END ################################
+2017-08-14 18:02:51,777 - root - INFO - ############################### START ###############################
+2017-08-14 18:11:00,901 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:11:05,751 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:11:05,751 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.849277496337891 seconds
+2017-08-14 18:11:06,992 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2390708923339844 seconds.
+2017-08-14 18:11:12,397 - base_page - INFO - Quit this browser.
+2017-08-14 18:11:12,397 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:16:08,487 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:16:09,044 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:16:13,102 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:16:13,102 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.6142637729644775 seconds
+2017-08-14 18:16:13,679 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:16:13,680 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.636265277862549 seconds
+2017-08-14 18:16:15,102 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.9991142749786377 seconds.
+2017-08-14 18:16:15,616 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.9351105690002441 seconds.
+2017-08-14 18:16:20,485 - base_page - INFO - Quit this browser.
+2017-08-14 18:16:20,485 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:16:21,065 - base_page - INFO - Quit this browser.
+2017-08-14 18:16:21,066 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:22:25,176 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:22:29,390 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:22:29,390 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.213241100311279 seconds
+2017-08-14 18:22:30,673 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2820732593536377 seconds.
+2017-08-14 18:22:36,120 - base_page - INFO - Quit this browser.
+2017-08-14 18:22:36,120 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:22:53,288 - base_operation - ERROR - ############################### START ###############################
+2017-08-14 18:22:57,515 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:22:57,515 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.22724175453186 seconds
+2017-08-14 18:22:59,935 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 2.420138359069824 seconds.
+2017-08-14 18:23:05,373 - base_page - INFO - Quit this browser.
+2017-08-14 18:23:05,374 - base_operation - ERROR - ############################### END ################################
+2017-08-14 18:27:33,186 - base_operation - ERROR - ############################### START ###############################
+2017-08-14 18:27:37,915 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:27:37,915 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.728270530700684 seconds
+2017-08-14 18:27:39,215 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.299074411392212 seconds.
+2017-08-14 18:27:54,754 - base_page - INFO - Quit this browser.
+2017-08-14 18:27:54,754 - base_operation - ERROR - ############################### END ################################
+2017-08-14 18:28:24,546 - base_operation - ERROR - ############################### START ###############################
+2017-08-14 18:28:28,940 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:28:28,941 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.394251346588135 seconds
+2017-08-14 18:28:30,116 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.1740672588348389 seconds.
+2017-08-14 18:30:48,119 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:30:52,502 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:30:52,502 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.382250785827637 seconds
+2017-08-14 18:30:53,702 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.200068473815918 seconds.
+2017-08-14 18:31:09,278 - base_page - INFO - Quit this browser.
+2017-08-14 18:31:09,279 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:38:01,905 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:38:06,331 - browser_engine - INFO - Starting Chrome browser.
+2017-08-14 18:38:06,331 - browser_engine - INFO - SUCCESS Start a new browser: Chrome, Spend 4.424252986907959 seconds
+2017-08-14 18:38:07,553 - base_page - INFO - SUCCESS Navigated to http://www.baidu.com, Spend 1.2220699787139893 seconds.
+2017-08-14 18:38:23,127 - base_page - INFO - Quit this browser.
+2017-08-14 18:38:23,127 - base_operation - INFO - ############################### END ################################
+2017-08-14 18:39:09,015 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:39:57,257 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:40:37,482 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:41:16,133 - base_operation - INFO - ############################### START ###############################
+2017-08-14 18:41:36,730 - base_operation - INFO - ############################### START ###############################
