@@ -1,0 +1,30 @@
+2017-01-22 13:38:41,815 - INFO - 用例第1条 - 天气 -  断点验证成功！ [ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:41,938 - INFO - 用例第2条 - 天气1 -  断点验证失败！[ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:42,065 - INFO - 用例第3条 - 天气2 -  断点验证失败！[ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:42,351 - INFO - 用例第1条 - 天气 -  断点验证成功！ [ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:42,479 - INFO - 用例第2条 - 天气1 -  断点验证失败！[ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:42,584 - INFO - 用例第3条 - 天气2 -  断点验证失败！[ 200 ], {"success":"1","result":{"weaid":"1","days":"2017-01-22","week":"星期日","cityno":"beijing","citynm":"北京","cityid":"101010100","temperature":"0℃/-10℃","temperature_curr":"-1℃","humidity":"22%","weather":"晴","weather_curr":"晴","weather_icon":"http://api.k780.com:88/upload/weather/d/0.gif","weather_icon1":"","wind":"西南风","winp":"2级","temp_high":"0","temp_low":"-10","temp_curr":"-1","humi_high":"0","humi_low":"0","weatid":"1","weatid1":"","windid":"16","winpid":"203"}}
+
+2017-01-22 13:38:44,084 - ERROR - 用例第4条 - 天气3 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:44,595 - ERROR - 用例第4条 - 天气3 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:46,128 - ERROR - 用例第5条 - 天气4 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:46,611 - ERROR - 用例第5条 - 天气4 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:48,170 - ERROR - 用例第6条 - 天气5 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:48,631 - ERROR - 用例第6条 - 天气5 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:50,186 - ERROR - 用例第7条 - 天气6 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:50,638 - ERROR - 用例第7条 - 天气6 -  失败！！！ [ 400 ], 接口请求失败！
+
+2017-01-22 13:38:51,387 - INFO - 邮件发送成功
+2017-01-22 13:38:51,979 - INFO - 邮件发送成功
