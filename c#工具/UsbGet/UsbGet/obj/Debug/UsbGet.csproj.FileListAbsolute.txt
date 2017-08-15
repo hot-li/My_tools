@@ -1,0 +1,26 @@
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\bin\Debug\UsbGet.exe.config
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\bin\Debug\UsbGet.exe
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\bin\Debug\UsbGet.pdb
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\obj\Debug\UsbGet.Form1.resources
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\obj\Debug\UsbGet.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\obj\Debug\UsbGet.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\obj\Debug\UsbGet.exe
+G:\SVN  CodeSource\Branch\branches\UsbGet\UsbGet\obj\Debug\UsbGet.pdb
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\bin\Debug\UsbGet.exe.config
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\bin\Debug\UsbGet.exe
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\bin\Debug\UsbGet.pdb
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.csprojResolveAssemblyReference.cache
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.Form1.resources
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.Properties.Resources.resources
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.csproj.GenerateResource.Cache
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.exe
+E:\Code_Demo\c#_demo\UsbGet\UsbGet\obj\Debug\UsbGet.pdb
+E:\My_tools\c#工具\UsbGet\UsbGet\bin\Debug\UsbGet.exe.config
+E:\My_tools\c#工具\UsbGet\UsbGet\bin\Debug\UsbGet.exe
+E:\My_tools\c#工具\UsbGet\UsbGet\bin\Debug\UsbGet.pdb
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.csprojResolveAssemblyReference.cache
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.Form1.resources
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.Properties.Resources.resources
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.csproj.GenerateResource.Cache
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.exe
+E:\My_tools\c#工具\UsbGet\UsbGet\obj\Debug\UsbGet.pdb

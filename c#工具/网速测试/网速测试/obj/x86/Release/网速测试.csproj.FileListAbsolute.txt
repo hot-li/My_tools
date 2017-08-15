@@ -1,0 +1,21 @@
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\bin\Release\网速测试.exe
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\bin\Release\网速测试.pdb
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\bin\Release\Nobi.StatusChart.dll
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\网速测试.Form1.resources
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\网速测试.Properties.Resources.resources
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\网速测试.exe
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Release\网速测试.pdb
+C:\Users\Administrator\Downloads\网速测试\网速测试\网速测试\obj\x86\Release\网速测试.exe
+C:\Users\Administrator\Downloads\网速测试\网速测试\网速测试\obj\x86\Release\网速测试.pdb
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.exe
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.pdb
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\bin\Release\网速测试.exe
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\bin\Release\网速测试.pdb
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\bin\Release\Nobi.StatusChart.dll
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.Form1.resources
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\网速测试\网速测试\obj\x86\Release\网速测试.csprojResolveAssemblyReference.cache

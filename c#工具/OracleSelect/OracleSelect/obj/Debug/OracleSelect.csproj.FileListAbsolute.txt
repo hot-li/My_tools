@@ -1,0 +1,33 @@
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OracleSelect.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OracleSelect.exe.config
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\bin\Debug\OracleSelect.exe.config
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\bin\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\bin\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\OracleSelect.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\WindowsFormsApplication2.Form2.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\OracleSelect.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\OracleSelect\obj\Debug\OracleSelect.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\bin\Debug\OracleSelect.exe.config
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\bin\Debug\OracleSelect.exe
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\bin\Debug\OracleSelect.pdb
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\WindowsFormsApplication2.Form2.resources
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.csprojResolveAssemblyReference.cache
+G:\SVN_CodeSource\Branch\branches\OracleSelect\OracleSelect\bin\Debug\OracleSelect.exe.config
+G:\SVN_CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.exe
+G:\SVN_CodeSource\Branch\branches\OracleSelect\OracleSelect\obj\Debug\OracleSelect.pdb

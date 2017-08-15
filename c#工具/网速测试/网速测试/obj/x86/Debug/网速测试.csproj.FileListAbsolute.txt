@@ -1,0 +1,9 @@
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\bin\Debug\网速测试.exe
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\bin\Debug\网速测试.pdb
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\网速测试.Form1.resources
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\网速测试.Properties.Resources.resources
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\网速测试.exe
+C:\Users\rich\Desktop\已完成\网速测试\网速测试\obj\x86\Debug\网速测试.pdb

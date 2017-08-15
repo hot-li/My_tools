@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.dll
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.pdb
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.dll
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.dll
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.csprojResolveAssemblyReference.cache
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.dll
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.pdb
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.dll
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient\bin\Debug\Oracle.OracleClient.pdb
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.dll
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient\obj\Debug\Oracle.OracleClient.pdb

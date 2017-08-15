@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Configs>
+  <ServerIP>192.168.2.234</ServerIP>
+  <User>system</User>
+  <Pwd>admin1234</Pwd>
+  <Port>1521</Port>
+</Configs>

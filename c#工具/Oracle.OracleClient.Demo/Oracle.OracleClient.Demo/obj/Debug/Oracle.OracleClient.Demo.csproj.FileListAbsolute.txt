@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe.config
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.pdb
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.dll
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.pdb
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.exe
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.pdb
+C:\Users\Administrator\Desktop\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\VIP开发\Branch\branches\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe.config
+E:\VIP开发\Branch\branches\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.exe
+E:\VIP开发\Branch\branches\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe.config
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.exe
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.dll
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.pdb
+E:\中科云丛Tech\新余项目\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe.config
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.exe
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.pdb
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.pdb
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.dll
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.pdb
+G:\SVN  CodeSource\Branch\branches\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.csprojResolveAssemblyReference.cache
+E:\My_tools\c#工具\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\bin\Debug\Oracle.OracleClient.Demo.exe.config
+E:\My_tools\c#工具\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.exe
+E:\My_tools\c#工具\Oracle.OracleClient.Demo\Oracle.OracleClient.Demo\obj\Debug\Oracle.OracleClient.Demo.pdb

@@ -1,0 +1,28 @@
+G:\SVN  CodeSource\Branch\branches\player\player\bin\Debug\Interop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\player\player\bin\Debug\AxInterop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\Interop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\AxInterop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\player\player\bin\Debug\player.exe.config
+G:\SVN  CodeSource\Branch\branches\player\player\bin\Debug\player.exe
+G:\SVN  CodeSource\Branch\branches\player\player\bin\Debug\player.pdb
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.exe
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.pdb
+G:\SVN  CodeSource\Branch\branches\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+E:\My_tools\c#工具\player\player\bin\Debug\player.exe.config
+E:\My_tools\c#工具\player\player\obj\Debug\Interop.WMPLib.dll
+E:\My_tools\c#工具\player\player\obj\Debug\AxInterop.WMPLib.dll
+E:\My_tools\c#工具\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+E:\My_tools\c#工具\player\player\obj\Debug\player.exe
+E:\My_tools\c#工具\player\player\obj\Debug\player.pdb
+E:\My_tools\c#工具\player\player\bin\Debug\player.exe
+E:\My_tools\c#工具\player\player\bin\Debug\player.pdb
+E:\My_tools\c#工具\player\player\bin\Debug\Interop.WMPLib.dll
+E:\My_tools\c#工具\player\player\bin\Debug\AxInterop.WMPLib.dll
+E:\My_tools\c#工具\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+E:\My_tools\c#工具\player\player\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\My_tools\c#工具\player\player\obj\Debug\player.Properties.Resources.resources
+E:\My_tools\c#工具\player\player\obj\Debug\player.csproj.GenerateResource.Cache

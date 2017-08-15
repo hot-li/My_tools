@@ -1,0 +1,59 @@
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe.config
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.pdb
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.exe
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.pdb
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.GoodsGet.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.Login.resources
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe.config
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.exe
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.pdb
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\GoodsSendDemo.pdb
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.YQHLogin.resources
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.ZDMLogin.resources
+C:\Users\Administrator\Desktop\GoodsSendDemo\GoodsSendDemo\GoodsSendDemo\obj\Debug\GoodsSendDemo.MainForm.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe.config
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.exe
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.pdb
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.pdb
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.MainForm.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.YQHLogin.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.ZDMLogin.resources
+G:\SVN  CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.GenerateResource.Cache
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe.config
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.exe
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.pdb
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.pdb
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.MainForm.resources
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.YQHLogin.resources
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.Properties.Resources.resources
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.ZDMLogin.resources
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.GenerateResource.Cache
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.ResolveComReference.cache
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\Interop.Office.dll
+G:\SVN_CodeSource\Branch\branches\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csprojResolveAssemblyReference.cache
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\bin\Debug\GoodsSendDemo.exe.config
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\Interop.Office.dll
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.ResolveComReference.cache
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.exe
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.pdb
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csprojResolveAssemblyReference.cache
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.MainForm.resources
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.YQHLogin.resources
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.Properties.Resources.resources
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.ZDMLogin.resources
+E:\Code_Demo\c#_demo\GoodsSendDemo(1)\GoodsSendDemo\obj\Debug\GoodsSendDemo.csproj.GenerateResource.Cache

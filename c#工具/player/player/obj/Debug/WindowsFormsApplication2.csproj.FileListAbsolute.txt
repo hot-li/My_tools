@@ -1,0 +1,14 @@
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\AxInterop.WMPLib.dll
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\SVN  CodeSource\Branch\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

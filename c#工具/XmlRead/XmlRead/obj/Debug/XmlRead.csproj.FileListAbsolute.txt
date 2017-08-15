@@ -1,0 +1,12 @@
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.exe.config
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.exe
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.pdb
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.exe
+G:\SVN  CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.pdb
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.exe.config
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.exe
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.pdb
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.exe
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\bin\Debug\XmlRead.pdb
+G:\SVN_CodeSource\Branch\branches\XmlRead\XmlRead\obj\Debug\XmlRead.csprojResolveAssemblyReference.cache

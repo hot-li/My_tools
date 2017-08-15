@@ -1,0 +1,10 @@
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Form1.resources
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Form2.resources
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csproj.GenerateResource.Cache
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+G:\SVN  CodeSource\Branch\branches\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
