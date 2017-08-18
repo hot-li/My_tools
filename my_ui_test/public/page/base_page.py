@@ -146,21 +146,6 @@ class BasePage(object):
             raise NameError("Please enter the correct targeting elements,'id','name','class','link_text','xpaht','css'.")
         return element
 
-    def open(self, url):
-        """
-        open url.
-
-        Usage:
-        driver.open("https://www.baidu.com")
-        """
-        t1 = time.time()
-        try:
-            self.driver.get(url)
-            self.my_print("{0} Navigated to {1}, Spend {2} seconds".format(success,url,time.time()-t1))
-        except Exception:
-            self.my_print("{0} Unable to load {1}, Spend {2} seconds".format(fail, url, time.time() - t1))
-            raise
-
     def max_window(self):
         """
         Set browser window maximized.
@@ -327,29 +312,6 @@ class BasePage(object):
         except Exception:
             self.my_print("{0} Unable to Click by text content: {1}, Spend {2} seconds".format(fail, text, time.time() - t1))
             raise
-
-    def close(self):
-        """
-        Simulates the user clicking the "close" button in the titlebar of a popup
-        window or tab.
-
-        Usage:
-        driver.close()
-        """
-        t1 = time.time()
-        self.driver.close()
-        self.my_print("{0} Closed current window, Spend {1} seconds".format(success, time.time() - t1))
-
-    def quit(self):
-        """
-        Quit the driver and close all the windows.
-
-        Usage:
-        driver.quit()
-        """
-        t1 = time.time()
-        self.driver.quit()
-        self.my_print("{0} Closed all window and quit the driver, Spend {1} seconds".format(success, time.time() - t1))
 
     def submit(self, css):
         """
